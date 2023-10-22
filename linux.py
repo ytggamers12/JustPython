@@ -1,0 +1,7 @@
+print("Hello World")
+yourName = input("What is your name? ")
+print(yourName)
+yourAge = input("What is your age? ")
+print(yourAge)
+yourOs = input("What is your Os? ")
+print(yourOs)
